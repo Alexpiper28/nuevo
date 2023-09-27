@@ -1,0 +1,3 @@
+Select name FroM table2 WHEre a2 = 15
+SELECT col1, col2 from mi_tabla wHERE col1 < 20
+SELECT col1, col2 from mi_tabla wHERE col1 < 20;
